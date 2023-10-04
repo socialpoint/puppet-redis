@@ -270,7 +270,7 @@ Default 'undef' results to 'root' as redis system group
 ##### `download_base`
 
 Url where to find the source tar.gz.
-Default value is 'http://download.redis.io'
+Default value is 'http://download.redis.io/releases'
 
 #### Defined Type: `redis::server`
 
